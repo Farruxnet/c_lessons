@@ -1,1 +1,1 @@
-# c_lessons
+# C dasturlash tili darslari
